@@ -4,6 +4,7 @@ Front-end Components are:
 - HTML
 - CSS
 - JavaScript
+  
 Back-end Components are:
 - PHP
 - MySQL
